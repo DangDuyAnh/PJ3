@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608841427933",
+    "project_id": "daskptuddnt-359cd",
+    "storage_bucket": "daskptuddnt-359cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608841427933:android:503b0cadc8a38c47676434",
+        "android_client_info": {
+          "package_name": "com.dask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608841427933-0blru716uvtk5i2p2ipo08l2oco52p5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Q0zkM7KJaUwxvtpiXeMzkn6A-FkOGac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608841427933-0blru716uvtk5i2p2ipo08l2oco52p5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
